@@ -121,29 +121,6 @@ Cosine similarity heatmap among 32 Q-Former queries shows low inter-query simila
 
 ---
 
-## 🛠️ How to Run
-
-### 1. Clone and Setup
-
-```bash
-git clone https://github.com/yourusername/image-captioning-blip2.git
-cd image-captioning-blip2
-```
-
-### 2. Install Requirements
-
-```bash
-pip install torch transformers datasets accelerate matplotlib
-```
-
-### 3. Run Notebook
-
-Launch `caption_generation.ipynb` using Jupyter Notebook or Colab.
-
-> Update paths for dataset and model if needed.
-
----
-
 ## 📌 File Structure
 
 ```
