@@ -104,9 +104,7 @@ No overfitting observed. Validation loss trends close to training loss.
 ## 🖼️ Generated Captions (Qualitative Results)
 
 <p align="center">
-  <img src="images/generated_caption_1.png" width="300">
-  <img src="images/generated_caption_2.png" width="300">
-  <img src="images/generated_caption_3.png" width="300">
+  <img src="images/generated_caption_1.png" width="600">
 </p>
 
 Captions are fluent, contextually relevant, and diverse. The model captures key objects and activities.
